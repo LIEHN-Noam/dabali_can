@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./index.css";
+import Home from "./routes/Home";
+
+
+import { Route, Routes } from "react-router-dom";
+import DbXpress from "./routes/DbXpress";
+import Produits from "./routes/Produits";
+import Can from "./routes/Can"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Routes>
+        <Route path="/dabali_can" element={<Home />} />
+        <Route path="/dabali_xpress" element={<DbXpress />}/>
+        <Route path="/produits" element={<Produits/>}/>
+        <Route path="/can_xpress" element={<Can/>}/>
+      </Routes>
+    </>
   );
 }
 

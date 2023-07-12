@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "GothamRoundedBold";
+    src: url("../fonts/GothamRoundedBold.otf");
+}
+@font-face{
+    font-family: "Montserrat";
+    src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+}
+.groupe{
+    text-align: center;
+    background-color: #6F4E37;
+}
+.groupe h1{
+    font-family: "GothamRoundedBold";
+    color: #FFD966;
+    font-size: 40px;
+}
+.groupe p{
+    color: #FFD966;
+    font-size: 20px;
+    font-family: "Montserrat";
+}
+.plats{
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.plats p{
+    font-family: "GothamRoundedBold";
+    font-size: 15px;
+}
+.plats div{
+    align-items: center;
+    margin: 20px;
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.wide{
+    width: 200px;
+    border: solid 2px white;
+    border-radius: 15px;
+}
+.hide{
+    height: 200px;
+    overflow: hidden;
+}

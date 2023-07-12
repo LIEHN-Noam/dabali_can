@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "GothamRoundedBold";
+    src: url("../fonts/GothamRoundedBold.otf");
+}
+@font-face{
+    font-family: "Montserrat";
+    src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+}
+.card-container{
+    width: 300px;
+    overflow: hidden;
+    overflow-x: hidden;
+    box-shadow: 0px 0px 15px -5px;
+    transition: 0.3s;
+    animation: ease-in;
+    cursor: pointer;
+}
+
+.card-container:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+}
+.card-container h3{
+    font-size: xx-large;
+    text-transform: uppercase;
+    font-weight: 600;
+    color:#6F4E37
+}
+.card-container p{
+    font-family: "Montserrat";
+    color: #6F4E37;
+    
+}
+
+.image-container img{
+    overflow: hidden;
+    height: 200px;
+    width: 400px;
+    margin: 0;
+}
+.image-container{
+    margin: 0;
+}
+
+.card-content{
+    margin: 1rem;
+    margin-top: 0.3rem;
+}
+
+h3,p{
+    margin: 0;
+    padding: 0;
+}
+
+.card-title{
+    margin-bottom: 0.5rem;
+}

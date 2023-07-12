@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "GothamRoundedBold";
+    src: url("../fonts/GothamRoundedBold.otf");
+}
+.dates h1{
+    text-align: center;
+    color:chocolate;
+    font-family: "GothamRoundedBold";
+    font-size: 40px;
+}
+.dates{
+    padding-bottom: 10%;
+    margin-top: 2%;
+}
+.container{
+    margin-top: 2%;
+    display: flex;
+    column-gap: 0px;
+}
+.gauche{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    text-align: left;
+    
+}
+.texte{
+    margin-left: 17%;
+}
+.texte h3{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "GothamRoundedBold";
+
+}
+.gauche img{
+    width: 80%;
+    margin-right: 0;
+}
+.droite{
+    display: flex;
+    flex-direction: column;
+    margin-top: 17%;
+    margin-left: 0;
+}
+.droite img{
+    width: 900px;
+    margin-right: 10%;
+}
+.bouton{
+    text-align: center;
+}
+.bouton a{
+    text-decoration: none;
+    color: white;
+}

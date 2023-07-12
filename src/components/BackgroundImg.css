@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+@font-face {
+    font-family: "GothamRoundedBold";
+    src: url("../fonts/GothamRoundedBold.otf");
+}
+.background h1{
+    font-size: 60px;
+    font-family: "GothamRoundedBold";
+    color: white;
+    text-align: center;
+    margin-top: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+.background{
+    width: 100%
+}
+.bg-container{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../assets/background.jpg");
+    background-size: cover;
+    padding: 1rem;
+    background-repeat: no-repeat;
+}

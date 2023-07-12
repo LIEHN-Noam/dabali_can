@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "GothamRoundedBold";
+    src: url("../fonts/GothamRoundedBold.otf");
+}
+button{
+    font-size: 16px;
+    font-family: "GothamRoundedBold";
+    padding: 8px 0px 5px 0px;
+    border: none;
+    background-color: rgb(243, 43, 43);
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    transition: 200ms;
+    box-shadow: 0 0 5px #aaa;
+    transition: 300ms;
+    width: 50%;
+    
+}
+button:hover{
+    background-color: rgb(245, 40, 40);
+    opacity: 0.9;
+}

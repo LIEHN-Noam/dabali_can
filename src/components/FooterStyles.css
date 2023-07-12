@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "GothamRoundedBold";
+  src: url("../fonts/GothamRoundedBold.otf");
+}
+@font-face{
+  font-family: "Montserrat";
+  src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+}
+.section_padding{
+  padding: 4rem 4rem;
+}
+.footer img{
+  width: 20%;
+  margin-bottom: 5%;
+}
+.footer{
+  background-color: rgb(139, 71, 37);
+}
+.sb_footer{
+  display: flex;
+  flex-direction: column;
+  
+}
+.sb_footer-links{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  text-align: left;
+  margin-bottom: 2rem;
+  
+}
+.sb_footer-links-div{
+  width: 150px;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: rgb(182, 139, 118);
+}
+.sb_footer-links-div h4{
+  font-size: 14px;
+  line-height: 17px;
+  margin-bottom: 0.9rem;
+  font-family: "GothamRoundedBold";
+  color: white;
+}
+.sb_footer-links-div p{
+  font-size: 12px;
+  line-height: 15px;
+  margin: 0.5rem 0;
+  cursor: pointer;
+}
+.sb_footer-below{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 0.2rem;
+  justify-content: center;
+}
+.sb_footer-below-links{
+  display: flex;
+  flex-direction: row;
+}
+.sb_footer-links-div a{
+  font-family: "Montserrat";
+}
+.sb_footer-below-links p{
+  font-size: 20px;
+  line-height: 15px;
+  margin-left: 2rem;
+  color: white;
+  font-weight: 600;
+  margin-right: 20px;
+  padding-bottom: 50%;
+}
+hr{
+  color: white !important;
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 2%;
+}
+.sb_footer-copyright p{
+  font-size: 20px;
+  line-height: 15px;
+  color: white;
+  font-weight: 600;
+  font-family: "GothamRoundedBold";
+}

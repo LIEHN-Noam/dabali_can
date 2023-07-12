@@ -1,0 +1,67 @@
+@font-face{
+    font-family: "Montserrat";
+    src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: "GothamRoundedBold";
+    src: url("../fonts/GothamRoundedBold.otf");
+}
+.background-blk{
+    background-color: black;
+    display: flex;
+    padding-bottom: 50%;
+}
+.background-blk div{
+
+    align-items: center;
+    margin: 20px;
+    width: auto;
+    justify-content: center;
+    background-color: #114c36;
+    padding-bottom: 20px;
+}
+.background-white{
+    background-color: white;
+    width: 60%;
+    margin-left: 15%;
+    font-family: "Montserrat";
+    font-size: 15px;
+}
+.bigger{
+    width: 60%;
+}
+.background-blk h3{
+    color: white;
+    font-size: 20px;
+    margin-left: 18%;
+    font-family: "GothamRoundedBold";
+}
+.background-blk h5{
+    color: rgb(255, 149, 0);
+    margin-left: 18%;
+    font-size: 10px;
+    font-family: "GothamRoundedBold";
+}
+.background-blk h4{
+    color: rgb(255, 149, 0);
+    font-size: 15px;
+}
+.news{
+    margin-left: 10%
+}
+.news-p{
+    color: white;
+
+}
+.news-hr{
+    color:white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5px;
+    width: 80%;
+}
+.news-h6{
+    color: white;
+    margin-left: 11%;
+    font-size: 10px;
+}
