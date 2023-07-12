@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/dabali_can/static/css/main.a0e069e1.css",
+    "main.js": "/dabali_can/static/js/main.80ca2e87.js",
+    "static/media/Foutou2.jpg": "/dabali_can/static/media/Foutou2.391877f0ac6104b0dfaa.jpg",
+    "static/media/Alloco.jpg": "/dabali_can/static/media/Alloco.e513e545b113a3abbbb2.jpg",
+    "static/media/ballons.PNG": "/dabali_can/static/media/ballons.2c78228f2f35a9e06944.PNG",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/dabali_can/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/background.jpg": "/dabali_can/static/media/background.dd924ed18508ecc4b1c9.jpg",
+    "static/media/DGA.jpg": "/dabali_can/static/media/DGA.a7e79d58f1deab198d91.jpg",
+    "static/media/Sauces.jpeg": "/dabali_can/static/media/Sauces.c807ff4696299c1b169f.jpeg",
+    "static/media/slide1.png": "/dabali_can/static/media/slide1.81105c6b19a145559ce0.png",
+    "static/media/DG.jpg": "/dabali_can/static/media/DG.a8409784739c4aa0f9ec.jpg",
+    "static/media/slide2.jpg": "/dabali_can/static/media/slide2.2f7d2fafbc930a3f7b44.jpg",
+    "static/media/staff1.jpg": "/dabali_can/static/media/staff1.89b8b38609798bc8a40b.jpg",
+    "static/media/dabali-can_blanc.png": "/dabali_can/static/media/dabali-can_blanc.d83dc302810b20e28934.png",
+    "static/media/beignets.jpeg": "/dabali_can/static/media/beignets.b7f9a753dbcacac318e2.jpeg",
+    "static/media/grillades.jpg": "/dabali_can/static/media/grillades.e4ad016414a1115d3a51.jpg",
+    "static/media/Gbofloto.jpg": "/dabali_can/static/media/Gbofloto.23c32117f3cab4000769.jpg",
+    "static/media/bg_about3.jpeg": "/dabali_can/static/media/bg_about3.0dbeb8c9908e7e07e935.jpeg",
+    "static/media/GothamRoundedBold.otf": "/dabali_can/static/media/GothamRoundedBold.a829ff15fe2b18d9330b.otf",
+    "static/media/dabali-can.png": "/dabali_can/static/media/dabali-can.3a7a129084cff8ddc212.png",
+    "static/media/chefs.jpg": "/dabali_can/static/media/chefs.abafc96495890832f99a.jpg",
+    "static/media/boisson.jpg": "/dabali_can/static/media/boisson.2f89ecf0db5cb705cee3.jpg",
+    "static/media/attieke.jpg": "/dabali_can/static/media/attieke.1386fba147717c037bad.jpg",
+    "static/media/staff2.jpg": "/dabali_can/static/media/staff2.7f826fe3ee3169f88f23.jpg",
+    "static/media/CAN-2024-qualifies-resultats-1.jpg": "/dabali_can/static/media/CAN-2024-qualifies-resultats-1.6a7e7373004aace4fc00.jpg",
+    "static/media/slide3.jpg": "/dabali_can/static/media/slide3.72a730a41e6ad4705631.jpg",
+    "static/media/dates_annonce.jpg": "/dabali_can/static/media/dates_annonce.a76fe2e681b9628bed55.jpg",
+    "index.html": "/dabali_can/index.html",
+    "main.a0e069e1.css.map": "/dabali_can/static/css/main.a0e069e1.css.map",
+    "main.80ca2e87.js.map": "/dabali_can/static/js/main.80ca2e87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0e069e1.css",
+    "static/js/main.80ca2e87.js"
+  ]
+}
